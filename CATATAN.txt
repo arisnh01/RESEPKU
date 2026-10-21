@@ -1,0 +1,7 @@
+Letakkan foto makanan (.jpg) di folder ini dengan nama persis seperti berikut.
+Selama foto belum ada, aplikasi menampilkan emoji sebagai pengganti.
+
+nasi-goreng  mie-goreng  ayam-geprek  seblak  telur-balado  capcay  es-teh  pisang-goreng
+rendang  soto-ayam  nasi-uduk  martabak-telur  risol  cireng  sup-ayam  tumis-kangkung
+nasi-telur-kecap  es-jeruk  es-kopi-susu  jus-alpukat  wedang-jahe  teh-hangat
+(contoh: nasi-goreng.jpg)
